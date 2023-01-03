@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Repository URL: [https://github.com/lucavergallo/Blogr-landing-page](https://github.com/lucavergallo/Blogr-landing-page)
-- Live Site URL: [https://counter-luca-vergallo.netlify.app/](https://counter-luca-vergallo.netlify.app/)
+- Live Site URL: [https://blogr-landing-page-luca-vergallo.netlify.app/](https://blogr-landing-page-luca-vergallo.netlify.app/)
 
 ## My process
 
